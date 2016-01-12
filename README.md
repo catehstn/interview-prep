@@ -96,6 +96,9 @@ Talk by [@kerrizor](https://twitter.com/kerrizor) on hiring processes, how the w
 
 Some comments on hiring processes in SV and ridiculous processes. E.g. unrealistic NDAs, and poor communication.
 
+###[The Simple Numbers That Could Change How You Hire](http://firstround.com/review/the-simple-numbers-that-could-change-how-you-hire/)
+
+Some breakdowns of the numbers in a typical hiring pipeline, and ideas for making hiring and recruiting a positive experience for candidates and teams.
 
 ## Interviews Going Wrong
 
