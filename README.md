@@ -10,7 +10,7 @@ When we interview potential developers to join our team, we want to be mindful o
 - Leave (or make) time for them to ask you any questions they have for you.
 - Look for understanding rather than specific words (this is especially important when interviewing people in their second language).
 - Send in your feedback promptly.
-- Be mindful of potential bias in feedback - talk to Cate if you are not sure if something is / should be relevant.
+- Be mindful of potential bias in feedback - talk to your hiring manager if you are not sure if something is / should be relevant.
 - Consider that if they have a different perspective from you that can be a *really good thing*.
 - Practice! Ask one of your colleagues to pretend to be your “interview candidate” and get feedback on how you did.
 
