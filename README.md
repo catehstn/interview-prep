@@ -102,7 +102,7 @@ Some breakdowns of the numbers in a typical hiring pipeline, and ideas for makin
 
 ###[The Hiring Post](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 
-A different approach for the hiring process.
+The article proposes a new way of hiring with a standardized process, focused on collecting data about the candidates, removing subjective criteria and biased data. You can think of it as a "Moneyball approach" for hiring.
 
 ## Interviews Going Wrong
 
