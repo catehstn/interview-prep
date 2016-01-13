@@ -100,6 +100,10 @@ Some comments on hiring processes in SV and ridiculous processes. E.g. unrealist
 
 Some breakdowns of the numbers in a typical hiring pipeline, and ideas for making hiring and recruiting a positive experience for candidates and teams.
 
+###[The Hiring Post](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
+
+The article proposes a new way of hiring with a standardized process, focused on collecting data about the candidates, removing subjective criteria and biased data. You can think of it as a "Moneyball approach" for hiring.
+
 ## Interviews Going Wrong
 
 ###[On the unreasonable reality of “junior” developer interviews](https://samphippen.com/on-the-unreasonable-reality-of-junior-developer-interviews/)
