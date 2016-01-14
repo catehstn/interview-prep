@@ -56,7 +56,7 @@ How well did they communicate? Could they explain their thinking? Did they liste
 
 ###Notes
 
-If you take notes as the interview happens (and this is a good idea), include them. They will be useful for your reference, if nothing else. It’s can be really helpful to include time stamps, too.
+If you take notes as the interview happens (and this is a good idea), include them. They will be useful for your reference, if nothing else. It can be really helpful to include time stamps, too.
 
 
 ## Resources for Being a Better Interviewer
@@ -71,11 +71,11 @@ Discussing some of the things that you don’t learn in a technical interview, a
 
 ###[12 Challenging Steps to Being a Better Interviewer](http://www.catehuston.com/blog/2015/10/07/12-challenging-steps-to-being-a-better-interviewer/)
 
-Some overlap with the previous two, notes from a talk about being a better interview. Includes: getting into the right headspace, projecting warmth, power dynamics, and communication.
+Some overlap with the previous two, notes from a talk about being a better interviewer. Includes: getting into the right headspace, projecting warmth, power dynamics, and communication.
 
 ###[Technical Interviews and Time Management](http://www.catehuston.com/blog/2015/12/02/technical-interview-questions-and-time-management/)
 
-Focusing on asking a good question and keeping an interview moving a long. How do you make everyone feel like they have accomplished something? There are different ways to make a question variable in size.
+Focusing on asking a good question and keeping an interview moving along. How do you make everyone feel like they have accomplished something? There are different ways to make a question variable in size.
 
 
 ## Interviews and Culture
@@ -90,7 +90,7 @@ Metaphor of interviewing as “fill out the potato": *“One is that, when you g
 
 ###[RailsConf 2015 - Why We're Bad At Hiring (And How To Fix It)](https://www.youtube.com/watch?v=vef_ARdnqWY)
 
-Talk by [@kerrizor](https://twitter.com/kerrizor) on hiring processes, how the work, how they don’t. To do better: “Know what you’re looking for, Find people who have it, Keep improving your process.” When writing feedback, think about what would change your mind. Full of useful information and insight.
+Talk by [@kerrizor](https://twitter.com/kerrizor) on hiring processes, how they work, how they don’t. To do better: “Know what you’re looking for, Find people who have it, Keep improving your process.” When writing feedback, think about what would change your mind. Full of useful information and insight.
 
 ###[How to Ensure You Don’t Hire Anyone](https://medium.com/@morgane/how-to-not-impress-me-during-the-interview-process-b2b99f30298b#.c9xz1y4jh)
 
