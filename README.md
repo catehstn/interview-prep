@@ -104,6 +104,10 @@ Some breakdowns of the numbers in a typical hiring pipeline, and ideas for makin
 
 The article proposes a new way of hiring with a standardized process, focused on collecting data about the candidates, removing subjective criteria and biased data. You can think of it as a "Moneyball approach" for hiring.
 
+### [Bad Interviews are a Company Problem, not a Candidate Problem](http://www.catehuston.com/blog/2016/02/10/bad-interviews-are-a-company-problem-not-a-candidate-problem/)
+
+Covers some of the ways that interviewing being hard often gets pushed off onto candidates. Hiring is both structural and individual - we define a process, but individuals participate in it - and it's important to be mindful of that.
+
 ## Interviews Going Wrong
 
 ###[On the unreasonable reality of “junior” developer interviews](https://samphippen.com/on-the-unreasonable-reality-of-junior-developer-interviews/)
