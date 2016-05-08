@@ -108,6 +108,10 @@ The article proposes a new way of hiring with a standardized process, focused on
 
 Covers some of the ways that interviewing being hard often gets pushed off onto candidates. Hiring is both structural and individual - we define a process, but individuals participate in it - and it's important to be mindful of that.
 
+### [Improving Our Engineering Interview Process](http://engineering.foursquare.com/2016/04/04/improving-our-engineering-interview-process/)
+
+Foursquare explain why they moved from interviews to take-home assignments. Includes the effort they went to reduce the time commitment for the candidate, e.g. adding scaffolding to reduce the need for candidates to write boilerplate.
+
 ## Interviews Going Wrong
 
 ###[On the unreasonable reality of “junior” developer interviews](https://samphippen.com/on-the-unreasonable-reality-of-junior-developer-interviews/)
