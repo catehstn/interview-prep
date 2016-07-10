@@ -77,6 +77,10 @@ Some overlap with the previous two, notes from a talk about being a better inter
 
 Focusing on asking a good question and keeping an interview moving along. How do you make everyone feel like they have accomplished something? There are different ways to make a question variable in size.
 
+###[Engineering interviews: what we don’t screen for](https://medium.engineering/engineering-interviews-what-we-dont-screen-for-4381cfdfa703#.f7ek71186)
+
+A good list of things that are often considered when interviewing for technical roles, and why they aren't useful.
+
 
 ## Interviews and Culture
 
