@@ -77,6 +77,10 @@ Some overlap with the previous two, notes from a talk about being a better inter
 
 Focusing on asking a good question and keeping an interview moving along. How do you make everyone feel like they have accomplished something? There are different ways to make a question variable in size.
 
+###[Engineering interviews: what we don’t screen for](https://medium.engineering/engineering-interviews-what-we-dont-screen-for-4381cfdfa703#.f7ek71186)
+
+A good list of things that are often considered when interviewing for technical roles, and why they aren't useful.
+
 
 ## Interviews and Culture
 
@@ -103,6 +107,14 @@ Some breakdowns of the numbers in a typical hiring pipeline, and ideas for makin
 ###[The Hiring Post](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 
 The article proposes a new way of hiring with a standardized process, focused on collecting data about the candidates, removing subjective criteria and biased data. You can think of it as a "Moneyball approach" for hiring.
+
+### [Bad Interviews are a Company Problem, not a Candidate Problem](http://www.catehuston.com/blog/2016/02/10/bad-interviews-are-a-company-problem-not-a-candidate-problem/)
+
+Covers some of the ways that interviewing being hard often gets pushed off onto candidates. Hiring is both structural and individual - we define a process, but individuals participate in it - and it's important to be mindful of that.
+
+### [Improving Our Engineering Interview Process](http://engineering.foursquare.com/2016/04/04/improving-our-engineering-interview-process/)
+
+Foursquare explain why they moved from interviews to take-home assignments. Includes the effort they went to reduce the time commitment for the candidate, e.g. adding scaffolding to reduce the need for candidates to write boilerplate.
 
 ## Interviews Going Wrong
 
